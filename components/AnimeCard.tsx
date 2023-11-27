@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { MotionDiv } from "./motiondiv";
+import { MotionDiv } from "./motion";
 
 export interface AnimeProp {
   id: string;
